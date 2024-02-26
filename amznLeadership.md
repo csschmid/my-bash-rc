@@ -1,20 +1,20 @@
 # Leadership Principles
-1. Ownership (O) - 10
-1. Customer Obsession (CO) - 9
-1. Invent and Simplify (IS) - 2
-1. Are Right, A Lot (R) - 2
-1. Learn and Be Curious (L) - 10
-1. Hire and Develop the Best (H) - 7
-1. Insist on the Highest Standards (HS) - 5
-1. Think Big (TB) - 2
-1. Bias for Action (BA) - 4
-1. Frugality (F) - 0
-1. Earn Trust (ET) - 6
-1. Dive Deep (DD) - 6
-1. Have Backbone; Disagree and Commit (DC) - 4
-1. Deliver Results (DR) - 5
-1. Strive to be Earth’s Best Employer (BE) - 2
-1. Success and Scale Bring Broad Responsibility (SS) - 6
+### Ownership (O) - 10
+### Customer Obsession (CO) - 9
+### Invent and Simplify (IS) - 2
+### Are Right, A Lot (R) - 2
+### Learn and Be Curious (L) - 10
+### Hire and Develop the Best (H) - 7
+### Insist on the Highest Standards (HS) - 5
+### Think Big (TB) - 2
+### Bias for Action (BA) - 4
+### Frugality (F) - 0
+### Earn Trust (ET) - 6
+### Dive Deep (DD) - 6
+### Have Backbone; Disagree and Commit (DC) - 4
+### Deliver Results (DR) - 5
+### Strive to be Earth’s Best Employer (BE) - 2
+### Success and Scale Bring Broad Responsibility (SS) - 6
 
 # Career Stories
 
