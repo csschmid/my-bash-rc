@@ -18,9 +18,10 @@
 		- MBA George town
 
 #### Questions
-1. 
-2. 
-3. 
+1. What project have you delivered that you were most proud of?
+2. What made you switch from development managment to program management?
+3. What about Amazon gets you fired up the most?
+4. What do you expect from an SDET working on your project?
 
 ### Abhi Rangaswamy
 - Senior SDE
@@ -35,9 +36,9 @@
 		- BS - University of Minnesota
 
 #### Questions
-1. 
-2. 
-3. 
+1. What project that you worked on are you most proud of?
+2. What trait, behavior, or mindset has most contributed to your success here at Amazon?
+3. What do you expect from an SDET helping with your projects?
 
 ### Sergiy Kazakov
 - Software Development Manager
@@ -55,8 +56,8 @@
 #### Questions
 1. What was it like founding a company?
   1. What was the most valuable lesson you learned from the experience?
-2. 
-3. 
+2. What led to you becoming a Manager over continuing on with an IC role?
+3. What do you expect from SDETs working with your team?
 
 ### Aishwarya Muthukumaran
 - Senior QA Manager
@@ -75,12 +76,12 @@
 
 #### Questions
 1. What was your MS thesis?
-2. 
-3. 
+2. Why did you switch from IC to management?
+3. What is your management style and philosophy?
 
 ## Day 2
 ### Jake Odom
-- SDE 2
+- SDE 2 
 - [LinkedIn](https://www.linkedin.com/in/jacobodom/)
 	- Software Engineer at Amazon
 	- jobs
