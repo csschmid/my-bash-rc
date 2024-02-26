@@ -31,7 +31,7 @@
 	1. O
 	1. CO
 
-## OBP - central library
+## | OBP - central library
 - LPs?
 	1. IS
 	1. O
@@ -87,7 +87,7 @@
 	1. DR
 	1. CO
 
-## Platform - AuthZ migration perf testing
+## | Platform - AuthZ migration perf testing
 - LPs?
 	1. L
 	1. DD
@@ -116,7 +116,7 @@
 	1. L
 	1. DD
 
-## Platform - Geolocation Generative testing
+## | Platform - Geolocation Generative testing
 - LPs?
 	1. L
 	1. DD
@@ -142,7 +142,7 @@
 	1. SS
 	1. L
 
-## Platform - Learn Scala
+## | Platform - Learn Scala
 - LPs?
 	1. L
 	1. DD
