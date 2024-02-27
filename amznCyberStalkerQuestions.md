@@ -85,7 +85,7 @@
 - [LinkedIn](https://www.linkedin.com/in/jacobodom/)
 	- Software Engineer at Amazon
 	- jobs
-		- Amazon - SDE2
+		- Amazon - SDE
 		- Target - Software Engineer, Senior SE
 		- 3M - Research and Dev Engineer, Intern
 		- University of Minnesota - IT Student Services
@@ -93,13 +93,15 @@
 		- BS (Electircal and Electronics Engineering) - University of Minnesota
 
 #### Questions
-1. 
-2. 
-3. 
+1. What projects have you worked on at Amazon?
+2. Can you tell me about a time you worked closely with a QA?
+   1. What went well?
+   2. What could have gone better?
+3. What is the team culture like?
 
 ### Sudeep Vaka
 - SDE 2
-- [LinkedIn](https://www.linkedin.com/in/abrang/)
+- [LinkedIn](https://www.linkedin.com/in/sudeepv/)
 	- SDE2
 	- jobs
 		- Amazon
@@ -114,9 +116,11 @@
 		- MS (Comp Sci) - Northeaster University
 
 #### Questions
-1. What was your MS thesis?
-2. 
-3. 
+1. What was your focus area, an did you do a MS thesis?
+2. Can you tell me anout a time you worked closely with an SDET?
+   1. What went well?
+   2. What could have gone better?
+3. What is the team culture like?
 
 ### Shaunak Bhatt
 - Senio SDE
@@ -133,6 +137,7 @@
 		- MS (comp sci) - North Carolina State University
 
 #### Questions
-1. I see from your linkedIn that you worked with Minimum Connected Dominating Sets. I have not heard of that before, can you tell me what those are?
-2. 
-3. 
+1. I see from your linkedIn that you worked with Minimum Connected Dominating Sets.
+   1. I have not encountered of that before, can you tell me more about your research?
+2. What areas do you see the team needs to improve on? 
+3. What is the team culture like?
